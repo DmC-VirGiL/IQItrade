@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179958354722",
+    "firebase_url": "https://tradeoption-5c748.firebaseio.com",
+    "project_id": "tradeoption-5c748",
+    "storage_bucket": "tradeoption-5c748.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179958354722:android:1ab396d83247406d",
+        "android_client_info": {
+          "package_name": "com.algmedia.tradeoption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179958354722-f4fk3miaeumieo55325j9ugdjd05seb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.algmedia.tradeoption",
+            "certificate_hash": "693073c06027ef90f220e59e201a28ddba721f9d"
+          }
+        },
+        {
+          "client_id": "179958354722-fvget6d7qtbqvpcuvg5kv6ju9hvstd0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm4pgjor04hUZZZYy1jp1jn7f0FpEGfMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179958354722-fvget6d7qtbqvpcuvg5kv6ju9hvstd0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
